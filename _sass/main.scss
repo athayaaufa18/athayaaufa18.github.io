@@ -1,3 +1,23 @@
 .current {
-    color: rgb(87, 174, 214)
+    color: #C0C0C0;
+    display: inline-block;
+    background-color: #0055FF;
+    border-radius: 8px;
+    padding: 5px;
+}
+body{
+    background-color:#2D95FF;
+}
+body h1{
+    color: #0055FF;
+    dispalay: inline-block;
+    background-color: #D3D3D3;
+    border-radius: 8px;
+}
+body ul li a{
+    color: #1F51FF;
+    display: inline-block;
+    background-color: rgb(238, 170, 45);
+    border-radius: 13px;
+    padding: 7px ;
 }
