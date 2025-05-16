@@ -1,3 +1,11 @@
+title: Syakila Athaya Aufa 
+email: syakilaathaya58@gmail.com
+description: > # this mean to ignore newliines until "baseurl:"
+    A personal blog by syakila athaya aufa, a student at Politeknik Negeri Lhokseumawe.
+    This blog is built using jekyll and hosted on github pages.
+    The content is primarily in Indonesian, but some post my be in English.
+
+
 url: "https://athayaaufa18.github.io/"
 
 plugins:
